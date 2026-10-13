@@ -1,5 +1,5 @@
 # Android Permissions
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white&labelColor=3DDC84)
 
 # Permission Types
 - Signature
